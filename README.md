@@ -10,7 +10,7 @@ pronouns
 : he/they
 
 current project
-: trufflegotchi (pls let it end)
+: trufflegotchi (pls let it end) && kanye clicker (do NOT ask)
 
 favorite language
 : js, vue, html (it IS a coding language)
