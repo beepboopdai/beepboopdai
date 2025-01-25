@@ -19,7 +19,8 @@ favorite language
 
 # stats ☕
 
-[![beepboopdai's GitHub stats](https://github-readme-stats.vercel.app/api?username=beepboopdai&theme=dracula&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beepboopdai&theme=dracula&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![beepboopdai's GitHub stats](https://github-readme-stats.vercel.app/api?username=beepboopdai&theme=dracula&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beepboopdai&theme=dracula&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats) <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
