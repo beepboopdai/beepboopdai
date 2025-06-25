@@ -1,5 +1,5 @@
 # ∘₊✧──── beepboopdai's page ──✧₊∘
-the coolest fella ever [^1]
+the coolest person ever [^1]
 
 ---
 
@@ -10,7 +10,7 @@ pronouns
 : he/they
 
 current project
-: trufflegotchi (pls let it end) && kanye clicker (do NOT ask)
+: none 💔
 
 favorite language
 : js, vue, html (it IS a coding language)
@@ -39,4 +39,4 @@ KerboScript       2 hrs 1 min     ██▓░░░░░░░░░░░░�
 
 
 
-[^1]: Aperture Science™ cannot confirm nor deny that they are "the coolest fella ever"
+[^1]: Aperture Science™ can neither confirm nor deny that they are "the coolest person ever"
