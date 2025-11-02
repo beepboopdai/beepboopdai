@@ -24,11 +24,11 @@ favorite language
 <!--START_SECTION:waka-->
 
 ```txt
-Other             5 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   23.53 %
-Python            5 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
-JavaScript        3 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-HTML              3 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-KerboScript       2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+Python            5 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
+Other             5 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.36 %
+JavaScript        4 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+HTML              3 hrs 58 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+CSS               2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
 ```
 
 <!--END_SECTION:waka-->
