@@ -10,7 +10,7 @@ pronouns
 : he/they
 
 current project
-: none 💔
+: pipedCorrectly (piped but i can use a proxy)
 
 favorite language
 : js, vue, html (it IS a coding language)
