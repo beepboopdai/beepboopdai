@@ -13,7 +13,7 @@ current project
 : pipedCorrectly (piped but i can use a proxy)
 
 favorite language
-: js, vue, html (it IS a coding language)
+: js, python, html (it IS a coding language)
 
 ---
 
