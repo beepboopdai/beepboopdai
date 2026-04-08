@@ -4,7 +4,7 @@ the coolest person ever
 ---
 
 name
-: beepboopdai
+: aj
 
 pronouns
 : he/they
