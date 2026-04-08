@@ -1,5 +1,5 @@
 # ∘₊✧──── beepboopdai's page ──✧₊∘
-the coolest person ever [^1]
+the coolest person ever
 
 ---
 
@@ -10,7 +10,7 @@ pronouns
 : he/they
 
 current project
-: pipedCorrectly (piped but i can use a proxy)
+: headlines 
 
 favorite language
 : js, python, html (it IS a coding language)
@@ -32,11 +32,3 @@ CSS               2 hrs 9 mins          █▒░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-
-
-
-
-
-
-[^1]: Aperture Science™ can neither confirm nor deny that they are "the coolest person ever"
