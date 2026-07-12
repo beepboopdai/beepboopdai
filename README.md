@@ -10,10 +10,10 @@ pronouns
 : he/they
 
 current project
-: headlines 
+: i dont even know bro 
 
 favorite language
-: js, python, html (it IS a coding language)
+: js, python, rust (learning rust is like skinning yourself with a vegetable peeler)
 
 ---
 
